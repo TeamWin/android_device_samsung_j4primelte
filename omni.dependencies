@@ -1,0 +1,9 @@
+[
+  {
+    "remote":"github",
+    "repository": "ZorEl212/android_device_samsung_msm8917_common",
+    "target_path": "device/samsung/msm8917-common",
+    "revision":"omni-9.0"
+  }
+]
+
