@@ -62,3 +62,6 @@ TARGET_RECOVERY_PIXEL_FORMAT := "RGBA_8888"
 TW_IGNORE_MISC_WIPE_DATA := true
 RECOVERY_SDCARD_ON_DATA := true
 TW_USE_TOOLBOX := true
+TW_CUSTOM_CPU_TEMP_PATH := "/sys/devices/virtual/thermal/thermal_zone11/temp"
+TW_DEVICE_VERSION := kycii91
+
